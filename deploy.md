@@ -39,3 +39,6 @@ git clone https://gitee.com/software-minister/jvs-knowledge-ui.git
 
 
 访问`http://localhost` 即可访问
+
+用户名：admin
+密码:admin
