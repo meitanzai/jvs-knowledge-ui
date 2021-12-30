@@ -87,6 +87,10 @@
 ![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211219114743.png)
 
 
+### 部署文档
+
+https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
+
 
 ### 技术栈说明
 * JVS+VUE
