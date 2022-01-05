@@ -82,11 +82,6 @@
 部分截图：
 ![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_%E4%BC%81%E4%B8%9A%E6%96%87%E6%A1%A3%E9%A6%96%E9%A1%B5.png)
 
-
-部署文档地址：微信登录可见。（http://knowledge.bctools.cn/#/view?id=57aeec0b4699b82c9f1a5c18f4a0f42c）
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211219114743.png)
-
-
 ### 快速部署文档
 
 https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
