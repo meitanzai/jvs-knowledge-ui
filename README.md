@@ -102,7 +102,7 @@ https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
 商用、二次开发|收费、提供全量代码、永久更新|技术服务合同+商用备案|永久
 
 ### 商用费用说明：
-> 技术服务费，必选，599元/永久授权
+> 技术服务费，必选，具体费用请与商务沟通
 
 > 定制开发费，可选，1500元/人天
 
