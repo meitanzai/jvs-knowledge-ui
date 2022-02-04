@@ -63,10 +63,12 @@
 
 ## 项目组成
 企业文档分为业务前台与管理后台，项目由 业务前台与业务后台组成：
-业务前台前端地址：https://gitee.com/software-minister/jvs-knowledge-ui
-业务前台后端地址：https://gitee.com/software-minister/jvs-apply-document
-管理后台前端地址：https://gitee.com/software-minister/jvs-ui
-管理后台后端地址：https://gitee.com/software-minister/jvs
+
+- 业务前台前端地址：https://gitee.com/software-minister/jvs-knowledge-ui
+- 业务前台后端地址：https://gitee.com/software-minister/jvs-apply-document
+- 管理后台前端地址：https://gitee.com/software-minister/jvs-ui
+- 管理后台后端地址：https://gitee.com/software-minister/jvs
+
 
 ## 演示地址
 演示地址：http://knowledge.bctools.cn/
