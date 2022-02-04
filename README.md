@@ -119,7 +119,6 @@ https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
 
 ![输入图片说明](image.png)
 
-![输入图片说明](image.png)
 
 ### 版本规划：
 V1.5
