@@ -1,4 +1,4 @@
-![输入图片说明](1fa179c747d0b08a21f6602e1b09287.png)
+
 
 
 ### 项目产生背景：
@@ -107,8 +107,7 @@ https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
 * 禁止在未备案的情况下，私自使用（包含自用与商用）
 
 ### 技术交流与商务支持
-
-![输入图片说明](1647583800(1).png)
+![输入图片说明](1fa179c747d0b08a21f6602e1b09287.png)
 
 
 
