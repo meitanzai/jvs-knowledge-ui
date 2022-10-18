@@ -120,7 +120,7 @@ https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
 
 ### 技术交流与商务支持
 
-![输入图片说明](img/1665533540447.png)
+![输入图片说明](img/1666098934147.png)
 
 
 ### 历史更新记录：
