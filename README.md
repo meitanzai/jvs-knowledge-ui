@@ -86,7 +86,8 @@
 
 地址说明：
 
-- 管理平台（含管理平台、低代码、数据智仓）：https://frame.bctools.cn/
+- 管理平台（含管理平台、低代码）：https://frame.bctools.cn/
+- 数据智仓（数据分析平台）：http://sdw.bctools.cn/
 - 企业文档：http://knowledge.bctools.cn/
 - 企业计划（项目管理）：http://teamwork.bctools.cn/
 - 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
