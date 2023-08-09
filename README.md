@@ -70,8 +70,8 @@
 
 - 业务前台前端地址：https://gitee.com/software-minister/jvs-knowledge-ui
 - 业务前台后端地址：https://gitee.com/software-minister/jvs-apply-document
-- 管理后台前端地址：https://gitee.com/software-minister/jvs-ui
-- 管理后台后端地址：https://gitee.com/software-minister/jvs
+- 管理后台前端地址：https://gitee.com/software-minister/jvs-ui/tree/2.1.0/
+- 管理后台后端地址：https://gitee.com/software-minister/jvs/tree/2.1.0/
 
 
 ### **体验地址与账号说明**
