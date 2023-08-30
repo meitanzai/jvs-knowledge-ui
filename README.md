@@ -73,6 +73,9 @@
 - 管理后台前端地址：https://gitee.com/software-minister/jvs-ui/tree/2.1.0/
 - 管理后台后端地址：https://gitee.com/software-minister/jvs/tree/2.1.0/
 
+## 部署视频  
+https://www.bilibili.com/video/BV1BN411q79Y
+
 
 ### **体验地址与账号说明**
 ![输入图片说明](img/image%E8%B4%A6%E5%8F%B7.png)
