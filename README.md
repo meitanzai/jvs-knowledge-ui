@@ -88,7 +88,7 @@ https://www.bilibili.com/video/BV1BN411q79Y
 
 
 地址说明：
-
+![输入图片说明](img/jvs%E4%BA%A7%E5%93%81%E4%BD%93%E7%B3%BB.png)
 - 管理平台（含管理平台、低代码）：https://frame.bctools.cn/
 - 数据智仓（数据分析平台）：http://bi.bctools.cn/
 - 企业文档：http://knowledge.bctools.cn/
