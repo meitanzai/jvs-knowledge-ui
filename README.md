@@ -127,7 +127,7 @@ https://gitee.com/software-minister/jvs-docker-compose/blob/master/readme.md
 
 ### 技术交流与商务支持
 
-![输入图片说明](img/1030.png)
+![输入图片说明](img/1105.png)
 如因人数限制无法加群时，可加运营同学拉入技术交流群
 
 ![输入图片说明](https://foruda.gitee.com/images/1693376631879434922/54ec140e_10006021.png "屏幕截图")
