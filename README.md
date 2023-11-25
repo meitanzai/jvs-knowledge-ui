@@ -98,6 +98,8 @@ https://www.bilibili.com/video/BV1BN411q79Y
 - 逻辑引擎：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
 
+整体项目文档群 [点击跳转](http://knowledge.bctools.cn/#/view?id=dd37733c43c064ac1c4f1c2155e04ce6)
+
 
 部分截图：
 
